@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/tavs-coelho/slide5.git
+git clone https://github.com/leone-leo/slide5.git
 cd slide5
 ```
 
@@ -109,10 +109,4 @@ slide5/
 - Demonstração de que features aprendidas sem supervisão podem ser úteis
 - Comparação de performance entre diferentes abordagens
 
-## 👨‍💻 Autor
 
-Tavs Coelho
-
-## 📝 Licença
-
-Este projeto é para fins educacionais.
